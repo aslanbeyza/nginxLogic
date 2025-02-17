@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/c5a727ff-3290-46f3-8d7d-e2e113faa4d8)
 ![image](https://github.com/user-attachments/assets/ca3b00ad-317e-46e6-aed2-126ecb97783e)
 Farklar:
-# * Redirect (Yönlendirme): Kullanıcıyı veya istemciyi yeni bir URL'ye gönderir ve genellikle istemciye, tarayıcıya yeni bir URL bildirir. Kullanıcı tarayıcıda yeni URL'yi görür.
-# * Rewrite (Yeniden Yazma): URL'yi sunucu düzeyinde değiştirir, ancak istemci bu değişikliği görmez. Bu, URL'nin sunucu tarafından nasıl işleneceğini belirler.
+#Redirect (Yönlendirme): Kullanıcıyı veya istemciyi yeni bir URL'ye gönderir ve genellikle istemciye, tarayıcıya yeni bir URL bildirir. Kullanıcı tarayıcıda yeni URL'yi görür.
+#Rewrite (Yeniden Yazma): URL'yi sunucu düzeyinde değiştirir, ancak istemci bu değişikliği görmez. Bu, URL'nin sunucu tarafından nasıl işleneceğini belirler.
 #Özetle, redirects kullanıcının tarayıcısında görünür ve yeni bir sayfaya yönlendirir, rewrites ise arka planda URL'yi değiştirir ama istemciye yansımaz.
 
